@@ -13,7 +13,5 @@ I will not share detailed all the questions and exercises for each interview, th
 - [Web](web-questions.md)
 - [Security](security-questions.md)
 - [Databases](databases-questions.md)
-
-### Exercises
-- TicTacToe
-- [Multiple algorithms](algorithm-exercises.md)
+- [Multiple coding exercises](algorithm-exercises.md)
+- [Design system exercises](design-exercises.md)
